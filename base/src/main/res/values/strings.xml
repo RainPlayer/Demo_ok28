@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">base</string>
+    <string name="message_permission_rationale">继续申请权限</string>
+</resources>

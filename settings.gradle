@@ -1,0 +1,1 @@
+include ':app', ':png2gif', ':matisse', ':base'
