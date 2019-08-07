@@ -1,1 +1,1 @@
-include ':app', ':png2gif', ':matisse', ':base'
+include ':app', ':png2gif', ':matisse', ':base', ':appuc', ':app_behavior'
